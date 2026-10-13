@@ -1,0 +1,1535 @@
+[
+  {
+    "id": "10021",
+    "key": "CN-1",
+    "fields": {
+      "summary": "Tài khoản và phân quyền"
+    }
+  },
+  {
+    "id": "10022",
+    "key": "CN-2",
+    "fields": {
+      "summary": "Dashboard"
+    }
+  },
+  {
+    "id": "10023",
+    "key": "CN-3",
+    "fields": {
+      "summary": "Sản phẩm và danh mục"
+    }
+  },
+  {
+    "id": "10024",
+    "key": "CN-4",
+    "fields": {
+      "summary": "Kho, bãi, cửa hàng và vị trí"
+    }
+  },
+  {
+    "id": "10025",
+    "key": "CN-5",
+    "fields": {
+      "summary": "Nhà cung cấp và lô hàng"
+    }
+  },
+  {
+    "id": "10026",
+    "key": "CN-6",
+    "fields": {
+      "summary": "Nhập hàng và trả hàng nhà cung cấp"
+    }
+  },
+  {
+    "id": "10027",
+    "key": "CN-7",
+    "fields": {
+      "summary": "Xuất hàng"
+    }
+  },
+  {
+    "id": "10028",
+    "key": "CN-8",
+    "fields": {
+      "summary": "Điều chuyển và bổ sung hàng"
+    }
+  },
+  {
+    "id": "10029",
+    "key": "CN-9",
+    "fields": {
+      "summary": "Tồn kho và kiểm kê"
+    }
+  },
+  {
+    "id": "10030",
+    "key": "CN-10",
+    "fields": {
+      "summary": "Bán hàng và khách hàng"
+    }
+  },
+  {
+    "id": "10031",
+    "key": "CN-11",
+    "fields": {
+      "summary": "Cảnh báo, thông báo, báo cáo và hệ thống"
+    }
+  },
+  {
+    "id": "10032",
+    "key": "CN-12",
+    "fields": {
+      "summary": "Thiết kế UI/UX, Web và App"
+    }
+  },
+  {
+    "id": "10040",
+    "key": "CN-20",
+    "fields": {
+      "summary": "Đăng nhập và đăng xuất"
+    }
+  },
+  {
+    "id": "10041",
+    "key": "CN-21",
+    "fields": {
+      "summary": "Quản lý tài khoản nhân viên"
+    }
+  },
+  {
+    "id": "10042",
+    "key": "CN-22",
+    "fields": {
+      "summary": "Phân quyền theo vai trò"
+    }
+  },
+  {
+    "id": "10043",
+    "key": "CN-23",
+    "fields": {
+      "summary": "Phân quyền theo kho/bãi/cửa hàng"
+    }
+  },
+  {
+    "id": "10044",
+    "key": "CN-24",
+    "fields": {
+      "summary": "Xem và đổi thông tin hồ sơ"
+    }
+  },
+  {
+    "id": "10045",
+    "key": "CN-25",
+    "fields": {
+      "summary": "Quản lý cảnh báo và thông báo"
+    }
+  },
+  {
+    "id": "10046",
+    "key": "CN-26",
+    "fields": {
+      "summary": "Nhật ký hoạt động hệ thống"
+    }
+  },
+  {
+    "id": "10054",
+    "key": "CN-34",
+    "fields": {
+      "summary": "Tổng quan hoạt động hệ thống"
+    }
+  },
+  {
+    "id": "10055",
+    "key": "CN-35",
+    "fields": {
+      "summary": "Hiển thị tổng số sản phẩm"
+    }
+  },
+  {
+    "id": "10056",
+    "key": "CN-36",
+    "fields": {
+      "summary": "Hiển thị tổng lượng tồn kho"
+    }
+  },
+  {
+    "id": "10057",
+    "key": "CN-37",
+    "fields": {
+      "summary": "Hiển thị phiếu chờ xử lý"
+    }
+  },
+  {
+    "id": "10058",
+    "key": "CN-38",
+    "fields": {
+      "summary": "Hiển thị cảnh báo cần xử lý"
+    }
+  },
+  {
+    "id": "10059",
+    "key": "CN-39",
+    "fields": {
+      "summary": "Hiển thị mức sử dụng kho và bãi"
+    }
+  },
+  {
+    "id": "10060",
+    "key": "CN-40",
+    "fields": {
+      "summary": "Dashboard theo vai trò người dùng"
+    }
+  },
+  {
+    "id": "10061",
+    "key": "CN-41",
+    "fields": {
+      "summary": "Mở danh sách chi tiết từ chỉ số Dashboard"
+    }
+  },
+  {
+    "id": "10062",
+    "key": "CN-42",
+    "fields": {
+      "summary": "Quản lý loại sản phẩm"
+    }
+  },
+  {
+    "id": "10063",
+    "key": "CN-43",
+    "fields": {
+      "summary": "Quản lý đơn vị tính"
+    }
+  },
+  {
+    "id": "10064",
+    "key": "CN-44",
+    "fields": {
+      "summary": "Quản lý quy đổi đơn vị tính"
+    }
+  },
+  {
+    "id": "10065",
+    "key": "CN-45",
+    "fields": {
+      "summary": "Thêm sản phẩm mới"
+    }
+  },
+  {
+    "id": "10066",
+    "key": "CN-46",
+    "fields": {
+      "summary": "Cập nhật thông tin sản phẩm"
+    }
+  },
+  {
+    "id": "10067",
+    "key": "CN-47",
+    "fields": {
+      "summary": "Ngừng kinh doanh sản phẩm"
+    }
+  },
+  {
+    "id": "10068",
+    "key": "CN-48",
+    "fields": {
+      "summary": "Tra cứu sản phẩm"
+    }
+  },
+  {
+    "id": "10069",
+    "key": "CN-49",
+    "fields": {
+      "summary": "Xem chi tiết sản phẩm"
+    }
+  },
+  {
+    "id": "10070",
+    "key": "CN-50",
+    "fields": {
+      "summary": "Quản lý mã vạch Barcode"
+    }
+  },
+  {
+    "id": "10071",
+    "key": "CN-51",
+    "fields": {
+      "summary": "Quản lý mã QR"
+    }
+  },
+  {
+    "id": "10072",
+    "key": "CN-52",
+    "fields": {
+      "summary": "Thiết lập mức tồn tối thiểu"
+    }
+  },
+  {
+    "id": "10073",
+    "key": "CN-53",
+    "fields": {
+      "summary": "Thiết lập mức tồn tối đa"
+    }
+  },
+  {
+    "id": "10074",
+    "key": "CN-54",
+    "fields": {
+      "summary": "Quản lý kho"
+    }
+  },
+  {
+    "id": "10075",
+    "key": "CN-55",
+    "fields": {
+      "summary": "Quản lý bãi lưu trữ"
+    }
+  },
+  {
+    "id": "10076",
+    "key": "CN-56",
+    "fields": {
+      "summary": "Quản lý cửa hàng"
+    }
+  },
+  {
+    "id": "10077",
+    "key": "CN-57",
+    "fields": {
+      "summary": "Thêm nơi lưu trữ"
+    }
+  },
+  {
+    "id": "10078",
+    "key": "CN-58",
+    "fields": {
+      "summary": "Cập nhật nơi lưu trữ"
+    }
+  },
+  {
+    "id": "10079",
+    "key": "CN-59",
+    "fields": {
+      "summary": "Quản lý cấu trúc vị trí lưu trữ"
+    }
+  },
+  {
+    "id": "10080",
+    "key": "CN-60",
+    "fields": {
+      "summary": "Thêm vị trí lưu trữ"
+    }
+  },
+  {
+    "id": "10081",
+    "key": "CN-61",
+    "fields": {
+      "summary": "Cập nhật vị trí lưu trữ"
+    }
+  },
+  {
+    "id": "10082",
+    "key": "CN-62",
+    "fields": {
+      "summary": "Khóa và mở vị trí lưu trữ"
+    }
+  },
+  {
+    "id": "10083",
+    "key": "CN-63",
+    "fields": {
+      "summary": "Xem hàng tại vị trí"
+    }
+  },
+  {
+    "id": "10084",
+    "key": "CN-64",
+    "fields": {
+      "summary": "Xem sức chứa vị trí"
+    }
+  },
+  {
+    "id": "10085",
+    "key": "CN-65",
+    "fields": {
+      "summary": "Theo dõi sức chứa đã sử dụng và còn lại"
+    }
+  },
+  {
+    "id": "10086",
+    "key": "CN-66",
+    "fields": {
+      "summary": "Thêm nhà cung cấp"
+    }
+  },
+  {
+    "id": "10087",
+    "key": "CN-67",
+    "fields": {
+      "summary": "Cập nhật nhà cung cấp"
+    }
+  },
+  {
+    "id": "10088",
+    "key": "CN-68",
+    "fields": {
+      "summary": "Tra cứu nhà cung cấp"
+    }
+  },
+  {
+    "id": "10089",
+    "key": "CN-69",
+    "fields": {
+      "summary": "Xem chi tiết nhà cung cấp"
+    }
+  },
+  {
+    "id": "10090",
+    "key": "CN-70",
+    "fields": {
+      "summary": "Theo dõi trạng thái hợp tác nhà cung cấp"
+    }
+  },
+  {
+    "id": "10091",
+    "key": "CN-71",
+    "fields": {
+      "summary": "Xem lịch sử nhập hàng theo nhà cung cấp"
+    }
+  },
+  {
+    "id": "10092",
+    "key": "CN-72",
+    "fields": {
+      "summary": "Quản lý lô hàng"
+    }
+  },
+  {
+    "id": "10093",
+    "key": "CN-73",
+    "fields": {
+      "summary": "Tạo lô hàng"
+    }
+  },
+  {
+    "id": "10094",
+    "key": "CN-74",
+    "fields": {
+      "summary": "Cập nhật thông tin lô hàng"
+    }
+  },
+  {
+    "id": "10095",
+    "key": "CN-75",
+    "fields": {
+      "summary": "Theo dõi ngày sản xuất và hạn sử dụng"
+    }
+  },
+  {
+    "id": "10096",
+    "key": "CN-76",
+    "fields": {
+      "summary": "Tra cứu lô hàng"
+    }
+  },
+  {
+    "id": "10097",
+    "key": "CN-77",
+    "fields": {
+      "summary": "Truy xuất nguồn gốc lô hàng"
+    }
+  },
+  {
+    "id": "10098",
+    "key": "CN-78",
+    "fields": {
+      "summary": "Xem vị trí hiện tại của lô hàng"
+    }
+  },
+  {
+    "id": "10099",
+    "key": "CN-79",
+    "fields": {
+      "summary": "Tạo phiếu nhập hàng"
+    }
+  },
+  {
+    "id": "10100",
+    "key": "CN-80",
+    "fields": {
+      "summary": "Thêm sản phẩm vào phiếu nhập"
+    }
+  },
+  {
+    "id": "10101",
+    "key": "CN-81",
+    "fields": {
+      "summary": "Cập nhật phiếu nhập"
+    }
+  },
+  {
+    "id": "10102",
+    "key": "CN-82",
+    "fields": {
+      "summary": "Gửi duyệt phiếu nhập"
+    }
+  },
+  {
+    "id": "10103",
+    "key": "CN-83",
+    "fields": {
+      "summary": "Duyệt phiếu nhập"
+    }
+  },
+  {
+    "id": "10104",
+    "key": "CN-84",
+    "fields": {
+      "summary": "Từ chối phiếu nhập"
+    }
+  },
+  {
+    "id": "10105",
+    "key": "CN-85",
+    "fields": {
+      "summary": "Hủy phiếu nhập"
+    }
+  },
+  {
+    "id": "10106",
+    "key": "CN-86",
+    "fields": {
+      "summary": "Ghi nhận hàng thực nhận"
+    }
+  },
+  {
+    "id": "10107",
+    "key": "CN-87",
+    "fields": {
+      "summary": "Ghi nhận hàng thiếu hoặc thừa"
+    }
+  },
+  {
+    "id": "10108",
+    "key": "CN-88",
+    "fields": {
+      "summary": "Ghi nhận hàng hỏng khi nhận"
+    }
+  },
+  {
+    "id": "10109",
+    "key": "CN-89",
+    "fields": {
+      "summary": "Phân bổ hàng vào vị trí lưu trữ"
+    }
+  },
+  {
+    "id": "10110",
+    "key": "CN-90",
+    "fields": {
+      "summary": "Xếp hàng vào kho hoặc bãi"
+    }
+  },
+  {
+    "id": "10111",
+    "key": "CN-91",
+    "fields": {
+      "summary": "Hoàn thành nhập hàng"
+    }
+  },
+  {
+    "id": "10112",
+    "key": "CN-92",
+    "fields": {
+      "summary": "Xem lịch sử phiếu nhập"
+    }
+  },
+  {
+    "id": "10113",
+    "key": "CN-93",
+    "fields": {
+      "summary": "Tạo phiếu trả hàng nhà cung cấp"
+    }
+  },
+  {
+    "id": "10114",
+    "key": "CN-94",
+    "fields": {
+      "summary": "Duyệt phiếu trả nhà cung cấp"
+    }
+  },
+  {
+    "id": "10115",
+    "key": "CN-95",
+    "fields": {
+      "summary": "Xác nhận trả hàng nhà cung cấp"
+    }
+  },
+  {
+    "id": "10116",
+    "key": "CN-96",
+    "fields": {
+      "summary": "Tạo phiếu xuất hàng"
+    }
+  },
+  {
+    "id": "10117",
+    "key": "CN-97",
+    "fields": {
+      "summary": "Thêm sản phẩm vào phiếu xuất"
+    }
+  },
+  {
+    "id": "10118",
+    "key": "CN-98",
+    "fields": {
+      "summary": "Cập nhật phiếu xuất"
+    }
+  },
+  {
+    "id": "10119",
+    "key": "CN-99",
+    "fields": {
+      "summary": "Kiểm tra tồn khả dụng"
+    }
+  },
+  {
+    "id": "10120",
+    "key": "CN-100",
+    "fields": {
+      "summary": "Giữ hàng chờ xuất"
+    }
+  },
+  {
+    "id": "10121",
+    "key": "CN-101",
+    "fields": {
+      "summary": "Gửi duyệt phiếu xuất"
+    }
+  },
+  {
+    "id": "10122",
+    "key": "CN-102",
+    "fields": {
+      "summary": "Duyệt phiếu xuất"
+    }
+  },
+  {
+    "id": "10123",
+    "key": "CN-103",
+    "fields": {
+      "summary": "Từ chối phiếu xuất"
+    }
+  },
+  {
+    "id": "10124",
+    "key": "CN-104",
+    "fields": {
+      "summary": "Hủy phiếu xuất"
+    }
+  },
+  {
+    "id": "10125",
+    "key": "CN-105",
+    "fields": {
+      "summary": "Giải phóng hàng đã giữ"
+    }
+  },
+  {
+    "id": "10126",
+    "key": "CN-106",
+    "fields": {
+      "summary": "Bàn giao hàng xuất"
+    }
+  },
+  {
+    "id": "10127",
+    "key": "CN-107",
+    "fields": {
+      "summary": "Xác nhận hoàn thành xuất hàng"
+    }
+  },
+  {
+    "id": "10128",
+    "key": "CN-108",
+    "fields": {
+      "summary": "Gợi ý lô xuất theo FIFO"
+    }
+  },
+  {
+    "id": "10129",
+    "key": "CN-109",
+    "fields": {
+      "summary": "Gợi ý lô xuất theo FEFO"
+    }
+  },
+  {
+    "id": "10130",
+    "key": "CN-110",
+    "fields": {
+      "summary": "Ngăn xuất hàng hết hạn"
+    }
+  },
+  {
+    "id": "10131",
+    "key": "CN-111",
+    "fields": {
+      "summary": "Ngăn xuất hàng hỏng"
+    }
+  },
+  {
+    "id": "10132",
+    "key": "CN-112",
+    "fields": {
+      "summary": "Xem lịch sử phiếu xuất"
+    }
+  },
+  {
+    "id": "10133",
+    "key": "CN-113",
+    "fields": {
+      "summary": "Tạo phiếu điều chuyển hàng"
+    }
+  },
+  {
+    "id": "10134",
+    "key": "CN-114",
+    "fields": {
+      "summary": "Chọn nơi đi và nơi đến"
+    }
+  },
+  {
+    "id": "10135",
+    "key": "CN-115",
+    "fields": {
+      "summary": "Chọn sản phẩm cần điều chuyển"
+    }
+  },
+  {
+    "id": "10136",
+    "key": "CN-116",
+    "fields": {
+      "summary": "Chọn lô và vị trí nguồn"
+    }
+  },
+  {
+    "id": "10137",
+    "key": "CN-117",
+    "fields": {
+      "summary": "Gửi duyệt phiếu điều chuyển"
+    }
+  },
+  {
+    "id": "10138",
+    "key": "CN-118",
+    "fields": {
+      "summary": "Duyệt phiếu điều chuyển"
+    }
+  },
+  {
+    "id": "10139",
+    "key": "CN-119",
+    "fields": {
+      "summary": "Từ chối phiếu điều chuyển"
+    }
+  },
+  {
+    "id": "10140",
+    "key": "CN-120",
+    "fields": {
+      "summary": "Giữ hàng chờ điều chuyển"
+    }
+  },
+  {
+    "id": "10141",
+    "key": "CN-121",
+    "fields": {
+      "summary": "Bàn giao hàng điều chuyển"
+    }
+  },
+  {
+    "id": "10142",
+    "key": "CN-122",
+    "fields": {
+      "summary": "Theo dõi hàng đang chuyển"
+    }
+  },
+  {
+    "id": "10143",
+    "key": "CN-123",
+    "fields": {
+      "summary": "Nhận hàng tại nơi đến"
+    }
+  },
+  {
+    "id": "10144",
+    "key": "CN-124",
+    "fields": {
+      "summary": "Chọn vị trí lưu hàng tại nơi đến"
+    }
+  },
+  {
+    "id": "10145",
+    "key": "CN-125",
+    "fields": {
+      "summary": "Ghi nhận số lượng thực nhận"
+    }
+  },
+  {
+    "id": "10146",
+    "key": "CN-126",
+    "fields": {
+      "summary": "Xử lý hàng thiếu khi điều chuyển"
+    }
+  },
+  {
+    "id": "10147",
+    "key": "CN-127",
+    "fields": {
+      "summary": "Xử lý hàng thừa khi điều chuyển"
+    }
+  },
+  {
+    "id": "10148",
+    "key": "CN-128",
+    "fields": {
+      "summary": "Xử lý hàng hỏng khi điều chuyển"
+    }
+  },
+  {
+    "id": "10149",
+    "key": "CN-129",
+    "fields": {
+      "summary": "Hoàn thành điều chuyển"
+    }
+  },
+  {
+    "id": "10150",
+    "key": "CN-130",
+    "fields": {
+      "summary": "Hủy phiếu điều chuyển"
+    }
+  },
+  {
+    "id": "10151",
+    "key": "CN-131",
+    "fields": {
+      "summary": "Theo dõi trạng thái điều chuyển"
+    }
+  },
+  {
+    "id": "10152",
+    "key": "CN-132",
+    "fields": {
+      "summary": "Tạo yêu cầu bổ sung hàng"
+    }
+  },
+  {
+    "id": "10153",
+    "key": "CN-133",
+    "fields": {
+      "summary": "Gửi yêu cầu bổ sung hàng"
+    }
+  },
+  {
+    "id": "10154",
+    "key": "CN-134",
+    "fields": {
+      "summary": "Duyệt yêu cầu bổ sung hàng"
+    }
+  },
+  {
+    "id": "10155",
+    "key": "CN-135",
+    "fields": {
+      "summary": "Duyệt một phần yêu cầu bổ sung"
+    }
+  },
+  {
+    "id": "10156",
+    "key": "CN-136",
+    "fields": {
+      "summary": "Từ chối yêu cầu bổ sung"
+    }
+  },
+  {
+    "id": "10157",
+    "key": "CN-137",
+    "fields": {
+      "summary": "Tạo phiếu điều chuyển từ yêu cầu bổ sung"
+    }
+  },
+  {
+    "id": "10158",
+    "key": "CN-138",
+    "fields": {
+      "summary": "Theo dõi mức độ đáp ứng yêu cầu bổ sung"
+    }
+  },
+  {
+    "id": "10159",
+    "key": "CN-139",
+    "fields": {
+      "summary": "Tra cứu tồn kho"
+    }
+  },
+  {
+    "id": "10160",
+    "key": "CN-140",
+    "fields": {
+      "summary": "Xem tồn theo sản phẩm"
+    }
+  },
+  {
+    "id": "10161",
+    "key": "CN-141",
+    "fields": {
+      "summary": "Xem tồn theo kho"
+    }
+  },
+  {
+    "id": "10162",
+    "key": "CN-142",
+    "fields": {
+      "summary": "Xem tồn theo bãi"
+    }
+  },
+  {
+    "id": "10163",
+    "key": "CN-143",
+    "fields": {
+      "summary": "Xem tồn theo cửa hàng"
+    }
+  },
+  {
+    "id": "10164",
+    "key": "CN-144",
+    "fields": {
+      "summary": "Xem tồn theo vị trí"
+    }
+  },
+  {
+    "id": "10165",
+    "key": "CN-145",
+    "fields": {
+      "summary": "Xem tồn theo lô"
+    }
+  },
+  {
+    "id": "10166",
+    "key": "CN-146",
+    "fields": {
+      "summary": "Xem tồn khả dụng"
+    }
+  },
+  {
+    "id": "10167",
+    "key": "CN-147",
+    "fields": {
+      "summary": "Xem hàng đang giữ"
+    }
+  },
+  {
+    "id": "10168",
+    "key": "CN-148",
+    "fields": {
+      "summary": "Xem hàng đang chuyển"
+    }
+  },
+  {
+    "id": "10169",
+    "key": "CN-149",
+    "fields": {
+      "summary": "Xem hàng hỏng và hết hạn"
+    }
+  },
+  {
+    "id": "10170",
+    "key": "CN-150",
+    "fields": {
+      "summary": "Xem thẻ kho"
+    }
+  },
+  {
+    "id": "10171",
+    "key": "CN-151",
+    "fields": {
+      "summary": "Xem lịch sử biến động kho"
+    }
+  },
+  {
+    "id": "10172",
+    "key": "CN-152",
+    "fields": {
+      "summary": "[KK] Tạo đợt kiểm kê"
+    }
+  },
+  {
+    "id": "10173",
+    "key": "CN-153",
+    "fields": {
+      "summary": "[KK] Chọn phạm vi kiểm kê"
+    }
+  },
+  {
+    "id": "10174",
+    "key": "CN-154",
+    "fields": {
+      "summary": "[KK] Phân công nhân viên kiểm kê"
+    }
+  },
+  {
+    "id": "10175",
+    "key": "CN-155",
+    "fields": {
+      "summary": "[KK] Chốt số lượng tồn trước kiểm kê"
+    }
+  },
+  {
+    "id": "10176",
+    "key": "CN-156",
+    "fields": {
+      "summary": "[KK] Ghi nhận số lượng thực tế"
+    }
+  },
+  {
+    "id": "10177",
+    "key": "CN-157",
+    "fields": {
+      "summary": "[KK] Quét mã khi kiểm kê"
+    }
+  },
+  {
+    "id": "10178",
+    "key": "CN-158",
+    "fields": {
+      "summary": "[KK] Tính chênh lệch kiểm kê"
+    }
+  },
+  {
+    "id": "10179",
+    "key": "CN-159",
+    "fields": {
+      "summary": "[KK] Tính chênh lệch kiểm kê"
+    }
+  },
+  {
+    "id": "10180",
+    "key": "CN-160",
+    "fields": {
+      "summary": "[KK] Tính chênh lệch kiểm kê"
+    }
+  },
+  {
+    "id": "10181",
+    "key": "CN-161",
+    "fields": {
+      "summary": "[KK] Yêu cầu kiểm đếm lại"
+    }
+  },
+  {
+    "id": "10182",
+    "key": "CN-162",
+    "fields": {
+      "summary": "[KK] Xác minh chênh lệch"
+    }
+  },
+  {
+    "id": "10183",
+    "key": "CN-163",
+    "fields": {
+      "summary": "[KK] Tạo phiếu điều chỉnh tồn"
+    }
+  },
+  {
+    "id": "10184",
+    "key": "CN-164",
+    "fields": {
+      "summary": "[KK] Duyệt điều chỉnh tồn"
+    }
+  },
+  {
+    "id": "10185",
+    "key": "CN-165",
+    "fields": {
+      "summary": "[KK] Hoàn thành điều chỉnh tồn"
+    }
+  },
+  {
+    "id": "10186",
+    "key": "CN-166",
+    "fields": {
+      "summary": "[HH] Ghi nhận hàng hỏng"
+    }
+  },
+  {
+    "id": "10187",
+    "key": "CN-167",
+    "fields": {
+      "summary": "[HH] Ghi nhận hàng hết hạn"
+    }
+  },
+  {
+    "id": "10188",
+    "key": "CN-168",
+    "fields": {
+      "summary": "[HH] Ghi nhận hàng hao hụt"
+    }
+  },
+  {
+    "id": "10189",
+    "key": "CN-169",
+    "fields": {
+      "summary": "[HH] Tạo phiếu xử lý hàng hỏng"
+    }
+  },
+  {
+    "id": "10190",
+    "key": "CN-170",
+    "fields": {
+      "summary": "[HH] Tạo phiếu xử lý hàng hỏng"
+    }
+  },
+  {
+    "id": "10191",
+    "key": "CN-171",
+    "fields": {
+      "summary": "[HH] Đính kèm hình ảnh hàng hỏng"
+    }
+  },
+  {
+    "id": "10192",
+    "key": "CN-172",
+    "fields": {
+      "summary": "[HH] Duyệt xử lý hàng hỏng"
+    }
+  },
+  {
+    "id": "10193",
+    "key": "CN-173",
+    "fields": {
+      "summary": "[HH] Xác nhận giảm tồn hàng hỏng"
+    }
+  },
+  {
+    "id": "10194",
+    "key": "CN-174",
+    "fields": {
+      "summary": "Thêm khách hàng"
+    }
+  },
+  {
+    "id": "10195",
+    "key": "CN-175",
+    "fields": {
+      "summary": "Cập nhật khách hàng"
+    }
+  },
+  {
+    "id": "10196",
+    "key": "CN-176",
+    "fields": {
+      "summary": "Tra cứu khách hàng"
+    }
+  },
+  {
+    "id": "10197",
+    "key": "CN-177",
+    "fields": {
+      "summary": "Xem lịch sử mua hàng của khách"
+    }
+  },
+  {
+    "id": "10198",
+    "key": "CN-178",
+    "fields": {
+      "summary": "Tạo đơn bán hàng"
+    }
+  },
+  {
+    "id": "10199",
+    "key": "CN-179",
+    "fields": {
+      "summary": "Thêm sản phẩm vào đơn bán"
+    }
+  },
+  {
+    "id": "10200",
+    "key": "CN-180",
+    "fields": {
+      "summary": "Tính tổng tiền đơn bán"
+    }
+  },
+  {
+    "id": "10201",
+    "key": "CN-181",
+    "fields": {
+      "summary": "Áp dụng giảm giá"
+    }
+  },
+  {
+    "id": "10202",
+    "key": "CN-182",
+    "fields": {
+      "summary": "Kiểm tra tồn trước khi bán"
+    }
+  },
+  {
+    "id": "10203",
+    "key": "CN-183",
+    "fields": {
+      "summary": "Giữ hàng cho đơn bán"
+    }
+  },
+  {
+    "id": "10204",
+    "key": "CN-184",
+    "fields": {
+      "summary": "Ghi nhận thanh toán"
+    }
+  },
+  {
+    "id": "10205",
+    "key": "CN-185",
+    "fields": {
+      "summary": "Thanh toán bằng tiền mặt"
+    }
+  },
+  {
+    "id": "10206",
+    "key": "CN-186",
+    "fields": {
+      "summary": "Thanh toán bằng chuyển khoản"
+    }
+  },
+  {
+    "id": "10207",
+    "key": "CN-187",
+    "fields": {
+      "summary": "Liên kết đơn bán với phiếu xuất"
+    }
+  },
+  {
+    "id": "10208",
+    "key": "CN-188",
+    "fields": {
+      "summary": "Xác nhận giao hàng"
+    }
+  },
+  {
+    "id": "10209",
+    "key": "CN-189",
+    "fields": {
+      "summary": "Hủy đơn bán"
+    }
+  },
+  {
+    "id": "10210",
+    "key": "CN-190",
+    "fields": {
+      "summary": "Tạo phiếu trả hàng"
+    }
+  },
+  {
+    "id": "10211",
+    "key": "CN-191",
+    "fields": {
+      "summary": "Nhận hàng khách trả"
+    }
+  },
+  {
+    "id": "10212",
+    "key": "CN-192",
+    "fields": {
+      "summary": "Phân loại hàng trả tốt hoặc hỏng"
+    }
+  },
+  {
+    "id": "10213",
+    "key": "CN-193",
+    "fields": {
+      "summary": "Hoàn hàng tốt về tồn kho"
+    }
+  },
+  {
+    "id": "10214",
+    "key": "CN-194",
+    "fields": {
+      "summary": "Ghi nhận hoàn tiền"
+    }
+  },
+  {
+    "id": "10215",
+    "key": "CN-195",
+    "fields": {
+      "summary": "Xem lịch sử đơn bán"
+    }
+  },
+  {
+    "id": "10216",
+    "key": "CN-196",
+    "fields": {
+      "summary": "[CB] Cảnh báo tồn kho thấp"
+    }
+  },
+  {
+    "id": "10217",
+    "key": "CN-197",
+    "fields": {
+      "summary": "[CB] Cảnh báo lô sắp hết hạn"
+    }
+  },
+  {
+    "id": "10218",
+    "key": "CN-198",
+    "fields": {
+      "summary": "[CB] Cảnh báo hàng hết hạn"
+    }
+  },
+  {
+    "id": "10219",
+    "key": "CN-199",
+    "fields": {
+      "summary": "[CB] Cảnh báo vị trí gần đầy"
+    }
+  },
+  {
+    "id": "10220",
+    "key": "CN-200",
+    "fields": {
+      "summary": "[CB] Cảnh báo vị trí gần đầy"
+    }
+  },
+  {
+    "id": "10221",
+    "key": "CN-201",
+    "fields": {
+      "summary": "[CB] Cảnh báo hàng chuyển chưa được nhận"
+    }
+  },
+  {
+    "id": "10222",
+    "key": "CN-202",
+    "fields": {
+      "summary": "[TB] Xem danh sách thông báo"
+    }
+  },
+  {
+    "id": "10223",
+    "key": "CN-203",
+    "fields": {
+      "summary": "[TB] Đánh dấu thông báo đã đọc"
+    }
+  },
+  {
+    "id": "10224",
+    "key": "CN-204",
+    "fields": {
+      "summary": "[TB] Mở dữ liệu liên quan từ thông báo"
+    }
+  },
+  {
+    "id": "10225",
+    "key": "CN-205",
+    "fields": {
+      "summary": "[TB] Xem lịch sử thông báo"
+    }
+  },
+  {
+    "id": "10226",
+    "key": "CN-206",
+    "fields": {
+      "summary": "[BC] Báo cáo tồn kho"
+    }
+  },
+  {
+    "id": "10227",
+    "key": "CN-207",
+    "fields": {
+      "summary": "[BC] Báo cáo nhập xuất tồn"
+    }
+  },
+  {
+    "id": "10228",
+    "key": "CN-208",
+    "fields": {
+      "summary": "[BC] Báo cáo nhập hàng"
+    }
+  },
+  {
+    "id": "10229",
+    "key": "CN-209",
+    "fields": {
+      "summary": "[BC] Báo cáo xuất hàng"
+    }
+  },
+  {
+    "id": "10230",
+    "key": "CN-210",
+    "fields": {
+      "summary": "[BC] Báo cáo điều chuyển hàng"
+    }
+  },
+  {
+    "id": "10231",
+    "key": "CN-211",
+    "fields": {
+      "summary": "[BC] Báo cáo kiểm kê"
+    }
+  },
+  {
+    "id": "10232",
+    "key": "CN-212",
+    "fields": {
+      "summary": "[BC] Báo cáo hàng thừa thiếu"
+    }
+  },
+  {
+    "id": "10233",
+    "key": "CN-213",
+    "fields": {
+      "summary": "[BC] Báo cáo hàng hỏng và hết hạn"
+    }
+  },
+  {
+    "id": "10234",
+    "key": "CN-214",
+    "fields": {
+      "summary": "[BC] Báo cáo sức chứa kho và bãi"
+    }
+  },
+  {
+    "id": "10235",
+    "key": "CN-215",
+    "fields": {
+      "summary": "[BC] Báo cáo bán hàng"
+    }
+  },
+  {
+    "id": "10236",
+    "key": "CN-216",
+    "fields": {
+      "summary": "[BC] Báo cáo nhập hàng theo nhà cung cấp"
+    }
+  },
+  {
+    "id": "10237",
+    "key": "CN-217",
+    "fields": {
+      "summary": "[BC] Tra cứu chứng từ"
+    }
+  },
+  {
+    "id": "10238",
+    "key": "CN-218",
+    "fields": {
+      "summary": "[BC] Xem lịch sử trạng thái chứng từ"
+    }
+  },
+  {
+    "id": "10239",
+    "key": "CN-219",
+    "fields": {
+      "summary": "[BC] In chứng từ"
+    }
+  },
+  {
+    "id": "10240",
+    "key": "CN-220",
+    "fields": {
+      "summary": "[BC] Xuất báo cáo PDF"
+    }
+  },
+  {
+    "id": "10241",
+    "key": "CN-221",
+    "fields": {
+      "summary": "[BC] Xuất báo cáo Excel"
+    }
+  },
+  {
+    "id": "10242",
+    "key": "CN-222",
+    "fields": {
+      "summary": "[HT] Xem nhật ký thao tác"
+    }
+  },
+  {
+    "id": "10243",
+    "key": "CN-223",
+    "fields": {
+      "summary": "[HT] Ghi nhận lịch sử thay đổi dữ liệu"
+    }
+  },
+  {
+    "id": "10244",
+    "key": "CN-224",
+    "fields": {
+      "summary": "[HT] Tra cứu nhật ký theo người dùng"
+    }
+  },
+  {
+    "id": "10245",
+    "key": "CN-225",
+    "fields": {
+      "summary": "[HT] Tra cứu nhật ký theo thời gian"
+    }
+  },
+  {
+    "id": "10246",
+    "key": "CN-226",
+    "fields": {
+      "summary": "[HT] Cấu hình ngưỡng cảnh báo tồn"
+    }
+  },
+  {
+    "id": "10247",
+    "key": "CN-227",
+    "fields": {
+      "summary": "[HT] Cấu hình số ngày cảnh báo hạn sử dụng"
+    }
+  },
+  {
+    "id": "10248",
+    "key": "CN-228",
+    "fields": {
+      "summary": "[HT] Cấu hình ngưỡng sức chứa"
+    }
+  },
+  {
+    "id": "10249",
+    "key": "CN-229",
+    "fields": {
+      "summary": "[HT] Cấu hình mẫu mã chứng từ"
+    }
+  },
+  {
+    "id": "10250",
+    "key": "CN-230",
+    "fields": {
+      "summary": "[HT] Cấu hình thông tin đơn vị"
+    }
+  },
+  {
+    "id": "10251",
+    "key": "CN-231",
+    "fields": {
+      "summary": "[HT] Nhập dữ liệu sản phẩm từ Excel"
+    }
+  },
+  {
+    "id": "10252",
+    "key": "CN-232",
+    "fields": {
+      "summary": "[HT] Kiểm tra dữ liệu Excel trước khi nhập"
+    }
+  },
+  {
+    "id": "10253",
+    "key": "CN-233",
+    "fields": {
+      "summary": "[HT] Hiển thị lỗi từng dòng khi nhập Excel"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict');const C=require('./dist/core.js');
+let s=C.seed();let doc=(type,qty,from='K01',to='CH01')=>({type,qty,from,to,product:'SP001',status:'Đã duyệt'});
+let a=doc('Nhập hàng',10);C.apply(s,a);assert.equal(C.stock(s,'SP001','K01'),290);assert.throws(()=>C.apply(s,a));
+C.apply(s,doc('Xuất hàng',20));assert.equal(C.stock(s,'SP001','K01'),270);
+let before=JSON.stringify(s);assert.throws(()=>C.apply(s,doc('Xuất hàng',9999)));assert.equal(JSON.stringify(s),before);
+C.apply(s,doc('Điều chuyển',30));assert.equal(C.stock(s,'SP001','K01'),240);assert.equal(C.stock(s,'SP001','CH01'),30);
+assert.throws(()=>C.apply(s,doc('Điều chuyển',1,'K01','K01')));
+C.apply(s,doc('Kiểm kê',0));assert.equal(C.stock(s,'SP001','K01'),0);
+assert.throws(()=>C.apply(s,doc('Nhập hàng',10000)));assert.throws(()=>C.apply(s,doc('Nhập hàng',-1)));assert.throws(()=>C.apply(s,doc('Nhập hàng',1.5)));
+C.apply(s,doc('Bán hàng',5,'CH01'));assert.equal(C.stock(s,'SP001','CH01'),25);
+console.log('PASS: nhập, xuất, điều chuyển, kiểm kê 0, bán hàng, chống hoàn thành lặp, chặn vượt tồn/sức chứa/số âm/số lẻ.');
